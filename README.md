@@ -6,19 +6,6 @@
   </a>
 </h1>
 
-
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/Claude-Zq/static/img/1.gif" width=100% /></div>
+<div align="center" ><img order-radius="100px" src="https://mystatic-1311688958.cos.ap-chongqing.myqcloud.com/img/1.gif" width=100% /></div>
 
 <br>
-
-
-
-
-
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Claude-zq&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
